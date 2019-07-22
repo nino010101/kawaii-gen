@@ -1,0 +1,12 @@
+# 全てのファイルを対象
+root = true
+[*]
+# 文字コード
+charset = utf-8
+end_of_line = lf
+# インデント設定
+indent_style = space
+indent_size = 2
+# スタイル（余分な空白の削除と最終行の空行を追加）
+trim_trailing_whitespace = true
+insert_final_newline = true
